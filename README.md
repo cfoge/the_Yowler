@@ -1,4 +1,8 @@
 # the_Yowler
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+WARNING!!!!! Please be aware of the risks asociated with electronics and take the relivant percautuions.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 An open source noise maker that saw its life as a Kickstarter product in 2017 and has now become open.
 
 The design originates from this kickstarter: https://www.kickstarter.com/projects/218568730/the-yowler-a-community-built-diy-noise-synth
