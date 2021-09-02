@@ -8,7 +8,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 An open source noise maker that saw its life as a Kickstarter product in 2017 and has now become open.
 
-[Mouser BOM cart] (https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=0d14517efb)
+[Mouser BOM cart](https://au.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=0d14517efb)
 
 The design originates from this kickstarter: https://www.kickstarter.com/projects/218568730/the-yowler-a-community-built-diy-noise-synth
 and features:
